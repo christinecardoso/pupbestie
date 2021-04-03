@@ -1,0 +1,1 @@
+var mp="lppp";console.log(mp);var to="fgre";console.log(to);
